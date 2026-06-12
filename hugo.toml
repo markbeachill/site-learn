@@ -8,3 +8,41 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowToc = true
   ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "essay-writing-guide"
+    name = "Essay Writing Guide"
+    url = "/essay-writing-guide/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "harvard-referencing"
+    name = "Harvard Ref Vids"
+    url = "/harvard-referencing-videos/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "editing-court-reporting"
+    name = "Editing Court Reporting"
+    url = "/editing-court-reporting/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "other-resources"
+    name = "Other resources"
+    url = "/other-resources/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "report-teaching"
+    name = "Report on teaching"
+    url = "/report-teaching/"
+    weight = 60
+
