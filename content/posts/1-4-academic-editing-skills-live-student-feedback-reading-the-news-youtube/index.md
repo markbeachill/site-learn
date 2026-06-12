@@ -7,7 +7,9 @@ categories:
 
 ## [1.4 Academic Editing Skills (live student feedback) Reading the news... - YouTube](https://www.youtube.com/watch?v=dWBxOLa8Iko)
 
-[\[embed\]https://www.youtube.com/watch?v=dWBxOLa8Iko\[/embed\]](https://www.youtube.com/watch?v=dWBxOLa8Iko)Live academic feedback for creating a paragraph with quote. The topic for this video: whether we read the news or the news reads us...
+{{< youtube dWBxOLa8Iko >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video: whether we read the news or the news reads us...
 
 www.youtube.com
 

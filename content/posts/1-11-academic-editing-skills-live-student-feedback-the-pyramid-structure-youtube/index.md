@@ -7,7 +7,9 @@ categories:
 
 ## [1.11 Academic Editing Skills (live student feedback) The pyramid structure.... - YouTube](https://www.youtube.com/watch?v=zCrZs1Oa3_k)
 
-[\[embed\]https://www.youtube.com/watch?v=zCrZs1Oa3\_k\[/embed\]](https://www.youtube.com/watch?v=zCrZs1Oa3_k)Live academic feedback for creating a paragraph with quote. The topic for this video: the pyramid structure in news reporting
+{{< youtube zCrZs1Oa3_k >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video: the pyramid structure in news reporting
 
 www.youtube.com
 

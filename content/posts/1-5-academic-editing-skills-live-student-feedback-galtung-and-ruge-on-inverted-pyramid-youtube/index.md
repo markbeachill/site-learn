@@ -7,7 +7,9 @@ categories:
 
 ## [1.5 Academic Editing Skills (live student feedback) Galtung and Ruge on inverted pyramid - YouTube](https://www.youtube.com/watch?v=JubJJ8NMBuw)
 
-[\[embed\]https://www.youtube.com/watch?v=JubJJ8NMBuw\[/embed\]](https://www.youtube.com/watch?v=JubJJ8NMBuw)Live academic feedback for creating a paragraph with quote. The topic for this video: Galtung and Ruge on inverted pyramid
+{{< youtube JubJJ8NMBuw >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video: Galtung and Ruge on inverted pyramid
 
 www.youtube.com
 

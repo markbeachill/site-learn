@@ -12,7 +12,9 @@ tags:
 
 ## [1.12 Academic Editing Skills (live student feedback) feature stories and the inverted pyramid - YouTube](https://www.youtube.com/watch?v=aJmWsDaxyP0)
 
-[\[embed\]https://www.youtube.com/watch?v=aJmWsDaxyP0\[/embed\]](https://www.youtube.com/watch?v=aJmWsDaxyP0)Live academic feedback for creating a paragraph with quote. The topic for this video: the pyramid structure in news reporting
+{{< youtube aJmWsDaxyP0 >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video: the pyramid structure in news reporting
 
 www.youtube.com
 

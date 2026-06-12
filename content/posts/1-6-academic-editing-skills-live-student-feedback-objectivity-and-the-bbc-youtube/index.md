@@ -7,7 +7,9 @@ categories:
 
 ## [1.6 Academic Editing Skills (live student feedback) Objectivity and the BBC - YouTube](https://www.youtube.com/watch?v=eGay7pqY1zw)
 
-[\[embed\]https://www.youtube.com/watch?v=eGay7pqY1zw\[/embed\]](https://www.youtube.com/watch?v=eGay7pqY1zw)Live academic feedback for creating a paragraph with quote. The topic for this video: objectivity and the BBC
+{{< youtube eGay7pqY1zw >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video: objectivity and the BBC
 
 www.youtube.com
 

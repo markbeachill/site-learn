@@ -7,7 +7,9 @@ categories:
 
 ## [1.1 Academic Editing Skills (live student feedback) The BBC holds a license... - YouTube](https://www.youtube.com/watch?v=SfHkMsJDh4c)
 
-[\[embed\]https://www.youtube.com/watch?v=SfHkMsJDh4c\[/embed\]](https://www.youtube.com/watch?v=SfHkMsJDh4c)Live academic feedback for creating a paragraph with quote. The topic for this video:
+{{< youtube SfHkMsJDh4c >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video:
 
 www.youtube.com
 

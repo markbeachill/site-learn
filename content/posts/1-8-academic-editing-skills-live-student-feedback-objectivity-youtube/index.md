@@ -7,7 +7,9 @@ categories:
 
 ## [1.8 Academic Editing Skills (live student feedback) Objectivity... - YouTube](https://www.youtube.com/watch?v=KpyQadHz14E)
 
-[\[embed\]https://www.youtube.com/watch?v=KpyQadHz14E\[/embed\]](https://www.youtube.com/watch?v=KpyQadHz14E)Live academic feedback for creating a paragraph with quote. The topic for this video: objectivity.
+{{< youtube KpyQadHz14E >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video: objectivity.
 
 www.youtube.com
 

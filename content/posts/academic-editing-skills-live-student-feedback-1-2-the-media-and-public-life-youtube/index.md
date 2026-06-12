@@ -7,7 +7,9 @@ categories:
 
 ## [Academic Editing Skills (live student feedback) 1.2 The media and public life... - YouTube](https://www.youtube.com/watch?v=t51UB_aIJ2c)
 
-[\[embed\]https://www.youtube.com/watch?v=t51UB\_aIJ2c\[/embed\]](https://www.youtube.com/watch?v=t51UB_aIJ2c)Live academic feedback for creating a paragraph with quote. The topic for this video: the media and public life...
+{{< youtube t51UB_aIJ2c >}}
+
+Live academic feedback for creating a paragraph with quote. The topic for this video: the media and public life...
 
 www.youtube.com
 
