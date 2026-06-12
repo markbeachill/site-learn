@@ -1,0 +1,15 @@
+---
+id: 117
+title: 'EWG Introduction'
+date: '2016-03-26T18:05:07+00:00'
+author: markbeachill@gmail.com
+excerpt: ''
+layout: post
+guid: 'http://learn.chequeredhistory.com/?p=117'
+permalink: /ewg-introduction/
+categories:
+    - 'Academic Writing'
+format: false
+---
+
+An undergraduate education and a good degree can be the key to your future. And, in the humanities, the essay is the key to undergraduate education. Your performance is based on how you deal with answering a set of questions in writing i.e. the essay. This is an indication of how testing the essay can be. Make no mistake: this is a major step up from secondary education. However, should you persevere, you will find that all the talents that you put towards answering essay questions will have a transformative impact on how you understand the world and your chosen subject. This brief guide should get you started in understanding what you are expected to do. [“1. How to be a successful student”](/ewg-1-how-to-be-a-successful-student/) covers the importance of motivation to your studies. [“2. An approach to essays”](/ewg-2-an-approach-to-essays/) gives a brief argument about creativity in your writing. [“3. Just answer the question”](/ewg-3-just-answer-the-question/) attempts to explain why essay writing is so important. [“4. Academic writing”](/ewg-4-academic-writing/) tries to summarize what academic writing is and gives some ideas about vocabulary. [“5. Getting started: the question”](/ewg-5-getting-started-the-question/) looks at how to understand the question. [“6. Getting started: writing exercises”](/ewg-6-getting-started-writing-exercises/) gives you 5 ways to get writing. [“7. Getting started: research”](/ewg-7-getting-started-research-2/) works through the type of reading you will have to do. [“8. Structure”](/ewg-8-structure/) – provides a brief overview of structure and what introductions and conclusions do. [“9. Editing”](/ewg-9-editing/) looks at how you will spend more time editing than the initial writing. [“10. Note taking”](/ewg-10-note-taking/) looks at how your notes in class will help you get started on your essay. [“11. Common mistakes”](/ewg-11-common-mistakes/) looks at common feedback given to students. “12. Plagiarism” explains what plagiarism is and how you must avoid it. [“13. Grammar: the sentence”](/ewg-13-grammar-the-sentence/) gives a way of understanding sentences that should help your writing. [“14. Grammar: the comma”](/ewg-14-grammar-the-comma/) explains comma rules so that your work is crystal clear. [“15. Using referenced material”](/ewg-15-using-referenced-material-under-construction/) explains why and how to uses quotes etc (not yet finished) “16. Referencing” gives a very short overview of referencing. [“17. Academic comparisons” ](/ewg-17-academic-comparisons/)explains how you might start comparing arguments and ideas “18. An example essay” provides an example 3rd year essay that got a first – so that you know what you are aiming for. “19. Resources”: a few important sources of further information
