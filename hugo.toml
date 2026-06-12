@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://markbeachill.github.io/site-learn/'
+languageCode = 'en-us'
+title = 'Chequered History Learning'
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
